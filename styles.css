@@ -1,0 +1,45 @@
+h1 {
+    font-size: 50px;
+    color: blue;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+h2 {
+    color:aliceblue
+}
+
+.test {
+    color: darkblue
+}
+
+#main-heading {
+    color:black;
+}
+
+#head-photo {
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 12px 12px 2px 1px 	#2e2e2e;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin-right: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
